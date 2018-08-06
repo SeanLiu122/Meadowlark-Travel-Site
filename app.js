@@ -2,6 +2,10 @@
 // (1) express - this provides the express web framework
 // (2) handlebars - this provides the handlebars template - view engine
 // (3) mongoose - this provides the mongo database
+// (4) bodyParser - used to retrieve the body of requests
+// (5) flash - used to send messages to views
+// (6) session - used for establishing sessions with clients of the site and for authentication
+// (7) passport - used to authenticate the credential request 
 const express = require('express');
 const handlebars = require('express-handlebars');
 const mongoose = require('mongoose');
