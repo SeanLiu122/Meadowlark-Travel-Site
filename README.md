@@ -1,7 +1,14 @@
 # Meadowlark-Travel-Site
 ## Overview
-Meadowlark is a 
-Still Work-in-progress.
+Meadowlark Travel Site is a static webpage app to display the list of popular places or places that the user wishes to travel; a dream vacation trip. The app also having a photo gallery section that can be viewed.
+
+The app is still work-in-progress...
+
+In the future:
+* Meadowlark will provide many services: pickup, rental, hotel, fly-cheap, etc.
+* A more-realistic user account page.
+
+*This app is heavily based on the [MaterializeCSS](https://materializecss.com/) framework for aesthetic.*
 
 ## Getting Started
 These instructions will get a copy of the project up and running on the local machine for development, testing, and maintanence purposes.
@@ -24,6 +31,7 @@ node app.js
 or
 npm start (if nodemon installed locally)
 ```
+On the browser and type ```http://localhost:3000``` on the URL path.
 ### Libraries
 ```
 express-handlebars
@@ -62,5 +70,5 @@ mongoose
 * used to define schemas and create models that connect to the database
 
 ## Acknowledgements
-This project was developed from a lecture "Node.js, Express & MongoDB Dev to Deployment" that instructed by Brad Traversy on [Udemy](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/). 
+* This project was inspired by the VidJot project and the Meadowlark project from the "Web Development with Node and Express" book and written by Ethan Brown.
 
