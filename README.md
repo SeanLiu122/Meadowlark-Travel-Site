@@ -4,6 +4,8 @@ Meadowlark Travel Site is a static webpage app to display the list of popular pl
 
 The app is still work-in-progress...
 
+*Th app is now live and deployed by Heroku at: [Meadowlark-travel-site](https://enigmatic-basin-25606.herokuapp.com/).*
+
 In the future:
 * Meadowlark will provide many services: pickup, rental, hotel, fly-cheap, etc.
 * A more-realistic user account page.
