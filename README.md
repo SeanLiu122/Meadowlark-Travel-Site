@@ -2,8 +2,6 @@
 ## Overview
 Meadowlark Travel Site is a static webpage app to display the list of popular places or places that the user wishes to travel; a dream vacation trip. The app also having a photo gallery section that can be viewed.
 
-The app is still work-in-progress...
-
 *The app is now live and deploy by Heroku at: [Meadowlark-travel-site](https://enigmatic-basin-25606.herokuapp.com/).*
 
 In the future:
